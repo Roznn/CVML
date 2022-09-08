@@ -1,2 +1,3 @@
-# CVML
-Computer Vision and Machine Learning Lectures
+# Computer Vision & Machine Learning
+
+Computer Vision and Machine Learning Slides
